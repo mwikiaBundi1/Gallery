@@ -21,4 +21,4 @@ Javascript
 For any inquiries about the application contact me at mwikiam@gmail.com
 
 ## MIT License
-
+Copyright(c)2020 Mwikia Martin Bundi
